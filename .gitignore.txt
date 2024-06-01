@@ -1,5 +1,0 @@
-#ignore large file.
-im.db
-
-#ignore checkpoint
-/.ipynb_checkpoints/
