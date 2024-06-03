@@ -41,8 +41,3 @@ Based on the analysis, the following recommendations are made for Microsoft's ne
 ## Conclusion
 This project provides a comprehensive analysis of movie data to guide Microsoft's new movie studio. By leveraging data-driven insights, Microsoft can strategically enter the movie production market and maximize their chances of success.
 
-## Contact
-For any questions, please contact:
-- **Name:** Your Name
-- **Email:** Your Email
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
