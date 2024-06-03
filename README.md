@@ -35,7 +35,7 @@ The analysis includes the following key insights:
 ## Recommendations
 Based on the analysis, the following recommendations are made for Microsoft's new movie studio:
 1. Focus on producing movies in genres with higher average box office gross.
-2. Invest in films with highly rated directors and cast.
+2. Invest in films with high critic rating.
 3. Prioritize films that tend to receive higher audience and critic ratings.
 
 ## Conclusion
